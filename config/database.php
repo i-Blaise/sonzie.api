@@ -11,7 +11,7 @@ return array(
             'host'      => '127.0.0.1',
             'database'  => 'sonzie',
             'username'  => 'root',
-            'password'  => '',
+            'password'  => 'r00t@Hy!ass',
             'charset'   => 'utf8',
             'collation' => 'utf8_unicode_ci',
             'prefix'    => '',
